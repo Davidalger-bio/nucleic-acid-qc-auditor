@@ -1,0 +1,9 @@
+Test Name,Sample ID,Original sample conc.,Units,Dilution factor,Qubit tube conc.
+dsDNA BR,QB-001,185.4,ng/uL,1,18.54
+dsDNA BR,QB-002,Out of range,ng/uL,1,Out of range
+dsDNA BR,QB-003,43.7,ng/uL,1,4.37
+dsDNA BR,QB-004,0.8,ng/uL,1,0.08
+dsDNA BR,QB-005,312.6,ng/uL,1,31.26
+dsDNA BR,QB-006,Too Low,ng/uL,1,Too Low
+dsDNA BR,QB-007,92.1,ng/uL,1,9.21
+dsDNA BR,,missing id,ng/uL,1,2.50
